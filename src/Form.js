@@ -28,7 +28,7 @@ const Form = () => {
         <button>Confirm</button>
       </form>
 
-      <RenderList list={list}/>
+      <RenderList list={list} />
 
     </div>
 
