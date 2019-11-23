@@ -16,7 +16,7 @@ const Form = () => {
   }
   return (
     <div>
-      <h1>To Do</h1>
+      <h1>To Do List</h1>
       <form onSubmit={handleSubmit}>
         <label htmlFor="entry">What do you want to do?</label>
         <input 
